@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Healer Christmas Tree 202512091902",
+  "description": "A cinematic 3D Christmas tree that assembles and scatters based on hand gestures using React Three Fiber and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
